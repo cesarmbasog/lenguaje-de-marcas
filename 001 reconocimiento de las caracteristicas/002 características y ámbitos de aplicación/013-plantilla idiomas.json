@@ -1,0 +1,45 @@
+{
+	"datos_personales":{
+  	"nombre":"Cesar Enrique Medang",
+    "apellidos":"Mico Mbasogo",
+    "email":{
+    	"empresa":"cesambasogo@gmail.com",
+      "personal":"chrismbasogo@gmail.com"
+    }
+  },
+  "experiencia_profesional":[
+    {
+    	"empresa":"CEAC",
+      "puesto":"Profesor de Ciclos Formativos",
+      "inicio":"2025-08",
+      "final":"en curso"
+    }
+  ],
+  "formacion":[
+    {
+    	"centro":"CEAC",
+      "titulacion":"Administración de Sistemas informaticos en red",
+      "inicio":"09/09/2026",
+      "final":"Pendiente"
+    }
+  ],
+  "idiomas":[
+    {
+    	"idioma":"español",
+      "nivel":"nativo"
+    },
+    {
+    	"idioma":"inglés",
+      "nivel":"Intermedio"
+    },
+    {
+    	"idioma":"francés",
+      "nivel":"básico"
+    }
+  ],
+  "hobbies":[
+	"Jugar al futbol", 
+	"El running", 
+	"Escuchar musica"
+  ]
+}
